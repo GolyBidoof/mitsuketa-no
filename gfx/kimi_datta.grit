@@ -1,0 +1,8 @@
+#texture
+-gx 
+
+#bitmap mode
+-gb
+
+# Set the bit depth to 16 (256 colors)
+-gB16
